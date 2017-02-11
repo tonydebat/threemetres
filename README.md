@@ -2,12 +2,12 @@
 Television show tracking and recommendation engine
 
 ## Requirements
-[Python 2.7](https://www.python.org/)
-[Django 1.10.5](https://www.djangoproject.com/)
-[MySql 5.7](https://www.mysql.com/)
+* [Python 2.7](https://www.python.org/)
+* [Django 1.10.5](https://www.djangoproject.com/)
+* [MySql 5.7](https://www.mysql.com/)
 
 ## Data
-Television show data comes from [tvdb](https://www.google.com).
+Television show data comes from [tvdb](http://thetvdb.com/).
 
 Data can be retrieved and updated via their
 [api](https://api.thetvdb.com/swagger).
